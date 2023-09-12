@@ -7,6 +7,9 @@
     "[php]": {
         "editor.defaultFormatter": "persoderlind.vscode-phpcbf"
     },
+    "[twig]": {
+        "editor.defaultFormatter": "mblode.twig-language-2"
+    },
     "workbench.tree.indent": 20,
     "workbench.tree.renderIndentGuides": "always",
     "window.zoomLevel": 1,
@@ -72,6 +75,5 @@
             ]
         }
     },
-    "workbench.editor.enablePreview": false,
-    
+    "workbench.editor.enablePreview": false
 }
