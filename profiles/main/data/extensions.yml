@@ -1,0 +1,24 @@
+disabled: []
+enabled:
+  - id: eamodio.gitlens
+    uuid: 4de763bd-505d-4978-9575-2b7696ecf94e
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: fabiospampinato.vscode-highlight
+    uuid: 5471fe3e-315b-4c05-b41e-8bb493227c2e
+  - id: mblode.twig-language-2
+    uuid: bfcc4184-7b55-410e-a012-20ee54be9264
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: persoderlind.vscode-phpcbf
+    uuid: 9df95cb4-c4e6-4de0-b771-f0cb91c96e7b
+  - id: rexshi.phpdoc-comment-vscode-plugin
+    uuid: 184b10e7-3b8c-40d7-9f2b-b82bd8282464
+  - id: shevaua.phpcs
+    uuid: 5847527d-5761-42aa-a21e-276c8831a57d
+  - id: Vue.volar
+    uuid: a5223b43-8621-4351-a14e-3d560f85f277
+  - id: xdebug.php-debug
+    uuid: 044b4b31-2969-4af3-895d-855433b8b46d
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
