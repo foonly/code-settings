@@ -1,5 +1,7 @@
 disabled: []
 enabled:
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
   - id: esbenp.prettier-vscode
     uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
   - id: fabiospampinato.vscode-highlight
@@ -8,17 +10,11 @@ enabled:
     uuid: bfcc4184-7b55-410e-a012-20ee54be9264
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
-  - id: persoderlind.vscode-phpcbf
-    uuid: 9df95cb4-c4e6-4de0-b771-f0cb91c96e7b
-  - id: rexshi.phpdoc-comment-vscode-plugin
-    uuid: 184b10e7-3b8c-40d7-9f2b-b82bd8282464
-  - id: shevaua.phpcs
-    uuid: 5847527d-5761-42aa-a21e-276c8831a57d
+  - id: solomonkinard.git-blame
+    uuid: 1396f65d-7c09-47b4-9b9d-0945de1c0407
+  - id: StoilDobreff.php-resolver
+    uuid: 5ef755e0-2c5f-4be6-893d-1d85e17228da
   - id: Vue.volar
     uuid: a5223b43-8621-4351-a14e-3d560f85f277
-  - id: waderyan.gitblame
-    uuid: 2335b326-c334-4e81-bc51-c408fcec6e7c
-  - id: xdebug.php-debug
-    uuid: 044b4b31-2969-4af3-895d-855433b8b46d
   - id: zokugun.cron-tasks
     uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb

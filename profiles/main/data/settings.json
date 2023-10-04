@@ -5,7 +5,7 @@
     "editor.fontSize": 14,
     "php.validate.executablePath": "/usr/bin/php",
     "[php]": {
-        "editor.defaultFormatter": "persoderlind.vscode-phpcbf"
+        "editor.defaultFormatter": "StoilDobreff.php-resolver"
     },
     "[twig]": {
         "editor.defaultFormatter": "mblode.twig-language-2"
@@ -76,6 +76,11 @@
         }
     },
     "workbench.editor.enablePreview": false,
-    "gitblame.inlineMessageEnabled": true,
-    "gitblame.inlineMessageFormat": "${author.name} (${time.ago})"
+    "twig-language-2.braceLine": true,
+    "twig-language-2.bracePadding": true,
+    "twig-language-2.correct": true,
+    "phpResolver.errorLogTruncateSize": 2,
+    "phpResolver.phpSnifferCommand": "/home/niklas/.config/composer/vendor/bin/phpcs",
+    "phpResolver.phpBeautifierCommand": "/home/niklas/.config/composer/vendor/bin/phpcbf",
+    "phpResolver.phpStandards": "WordPress,WordPress-Extra,WordPress-Docs"
 }
